@@ -1,0 +1,8 @@
+path: C:\Users\prith\Desktop\CODE049\DATA
+train: C:\Users\prith\Desktop\CODE049\DATA\train\images
+val: C:\Users\prith\Desktop\CODE049\DATA\valid\images
+test: C:\Users\prith\Desktop\CODE049\DATA\test\images
+
+nc: 2
+names: ['Car', 'Empty']
+
