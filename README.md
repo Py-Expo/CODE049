@@ -10,7 +10,7 @@ Prerequisites:
 INSTALLATION:
 
 1.Clone this repository:
-git clone https://github.com/your-username/yolov8-parking-space-detection.git
+git clone https://github.com/Py-Expo/CODE049.git
 
 2. Navigate to the project directory: cd PARKING_SPACE_DETECTION_YOLOv8
 
